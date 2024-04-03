@@ -1,0 +1,6 @@
+let xMaluf = 10;
+let yMaluf = 05;
+
+somar = yMaluf / xMaluf;
+
+console.log(somar)
